@@ -36,4 +36,5 @@ The file ```states.xml``` found under ```linux-build/assets/XML/states.xml``` or
 - the graphical design could be better
 - game over / win animations make the program unresponsive until done
 - window not resizable
+- currently, the first hit can be a mine (not preferred), mine generation has to be improved
 - ```assets``` folder is stored separately under ```windows/linux``` build folders + another copy at project root. Needed restructuring
