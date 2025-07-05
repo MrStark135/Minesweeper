@@ -1,3 +1,0 @@
-/home/user03/tmp/minesweeper/linux-build/CMakeFiles/Minesweeper.dir
-/home/user03/tmp/minesweeper/linux-build/CMakeFiles/edit_cache.dir
-/home/user03/tmp/minesweeper/linux-build/CMakeFiles/rebuild_cache.dir
