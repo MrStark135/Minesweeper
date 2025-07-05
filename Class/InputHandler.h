@@ -1,6 +1,6 @@
 #pragma once
 #include "Vector2D.h"
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 enum mouseButtons
 {

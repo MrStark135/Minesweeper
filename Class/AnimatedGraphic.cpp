@@ -1,7 +1,7 @@
 #include "AnimatedGraphic.h"
 #include "TextureManager.h"
 #include "Game.h"
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 AnimatedGraphic::AnimatedGraphic()
 	: SDLGameObject() {}

@@ -3,7 +3,7 @@
 //instance od FSM to handle states
 #include "GameStateMachine.h"
 
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #include <vector>
 #include <random>
 using namespace std;

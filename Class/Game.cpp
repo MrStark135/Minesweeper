@@ -14,7 +14,7 @@
 
 //iostream and SDL
 #include <iostream>
-#include <SDL.h>
+#include <SDL2/SDL.h>
 using namespace std;
 
 Game* Game::_instance;//static instance, must be declared
