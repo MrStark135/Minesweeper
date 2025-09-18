@@ -4,7 +4,7 @@ Simple minesweeper clone
 ## Build and run
 The project contains prebuilt binaries for Windows 10 and Archlinux, try running them, otherwise build the source code as instructed.
 ### Linux
-Run cmake and bild with make
+Run cmake and build with make
 ```bash
 cd linux-build
 cmake ..
